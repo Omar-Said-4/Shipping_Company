@@ -1,0 +1,31 @@
+CARGOS
+------
+VIP (1000cost + 100dist + (24days+hours))//
+LOADING -(loadstartdateinhours + maxloadingtime)//
+MOVING -(movestartinhours +deldist/speed+loadingtime)//
+
+
+
+
+TRUCKS
+------
+CHECKUP -(starttimeinhours+maintinencetime)//
+LOADING -(loadstartdateinhours+maxloadingtime)//
+MOVING -(movestartinhours +2*deldistmax/ speed+loadingtime(i>>>n)//
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
