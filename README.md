@@ -1,5 +1,5 @@
 # Shipping_Company
-### A simulator to a shipping company which needs to handle the cargo delivery in the most efficient and profitable way through automating the cargo assignment up to delivery proceses, to achieve good and fair use of its trucks.
+### A simulator to a shipping company which needs to handle the cargo delivery in the most efficient and profitable way through simulating the cargo assignment up to delivery proceses, to achieve good and fair use of its trucks.
 ## **Description:**
 - It's implemented using cpp, object oriented programming (OOP) and data structures.
 - it takes from the user an input file containing all the company data (Events, Trucks ,Cargos) including execution time.
